@@ -44,11 +44,11 @@ Para um caso de DR (desastre recovery) é possivel criarmos uma solução de ASR
 
 -   **Estudar sobre** : [Vmware Site Recovery](https://www.google.com/search?q=Vmware+Site+Recovery&oq=Vmware+Site+Recovery&aqs=chrome..69i57j0l7.294j0j7&sourceid=chrome&ie=UTF-8)
 
-<<br>
+<br>
 
 **QUERY THE ACTIVITY LOG**
 
-<<br>
+<br>
 
 **ACTIVITY LOG AND LOG ANALYTICS**
 
@@ -64,14 +64,37 @@ caso você queria corelacionar os logs de diferentes aplicações e de diferente
 
 Como é um recurso Serveless vc paga por execução
 
+<br>
 
+**AZURE STORAGE ACCOUNTS**
 
+o Azure stora accounts possui as seguintes "tiers", cada uma dela com umtipo de performance e preço, quando mais "quente" mais caro e mais rapido
 
+- **HOT** - dado acessado constantemente
+- **COOL** - acessado as vezes
+- **ARCHIVE** - muito pouco acessado
 
+Não é possivel fazer um upgrade de discos standard para premiun, somente é possivel criar um novo disco com essas configurações
 
-**DICIONARIO**
+Você paga por GB, por mais eque esteja oculpando apenas alguns megas
 
-> **BLADE** = Janela no portal da Azure
+<br>
 
-> **SCOM** = System center operation manager
+**AZURE IMPORT**
+
+Faz movimentações da sua maquina local para o Azure ou quando voce esta migrando informações de um servidor onpremisse para a Azure
+
+_Quando as informações saem da região você paga ( rede edentro do Azure )_
+
+[mais informações](https://docs.microsoft.com/pt-br/azure/storage/common/storage-use-azcopy-v10)
+
+<br>
+
+**AZCOPY ( Azure Copy )**
+
+Faz a copia de arquivos entre storages da Azure
+
+_Quando as informações saem da região você paga ( rede edentro do Azure )_
+
+<br>
 
