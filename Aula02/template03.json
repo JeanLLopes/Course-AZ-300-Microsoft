@@ -16,7 +16,7 @@
         "dept": "Engineering",
         "task": "Image deployment"
       },
-      "location": "westus",
+      "location": "centralus",
       "vm_size": "Standard_D2s_v3"
     }
   ],
