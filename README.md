@@ -18,3 +18,9 @@
 > **ARM-specific** = documento em JSON com as informações para deploy de uma maquina virtual. Aqui voce pode gerar script e recursos referentes a VM
 
 > Para pegar todas as regiões do Azure usar o seguinte comando no powershell = Get-AzureRmLocation |Format-Table
+
+> **NSG** = Network Security Group
+
+> **VNIC** = Nework Interface
+
+> **NVA** = Network Visual Appliance
