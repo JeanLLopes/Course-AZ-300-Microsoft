@@ -12,3 +12,9 @@
 > **EQUINIX** = https://www.equinix.com.br/resources/infopapers/equinix-and-azure-expressroute-fast-lane-to-the-cloud/
 
 > **TTL** = Generally, we recommend a TTL of 24 hours (86,400 seconds). However, if you are planning to make DNS changes, you should lower the TTL to 5 minutes (300 seconds) at least 24 hours in advance of making the changes
+
+> **SKUs** = Sistema operacional da maquina
+
+> **ARM-specific** = documento em JSON com as informações para deploy de uma maquina virtual. Aqui voce pode gerar script e recursos referentes a VM
+
+> Para pegar todas as regiões do Azure usar o seguinte comando no powershell = Get-AzureRmLocation |Format-Table
