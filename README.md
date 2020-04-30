@@ -24,3 +24,9 @@
 > **VNIC** = Nework Interface
 
 > **NVA** = Network Visual Appliance
+
+> **MFA** =  Multiplo fator de autenticação
+
+> **ARM** = Azure Resource Manager
+
+> **SSPR** = Self-Service Password Reset

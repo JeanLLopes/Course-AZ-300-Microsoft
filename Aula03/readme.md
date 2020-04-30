@@ -38,9 +38,32 @@ Network Virtual Appliance funciona como um firewall onde toda solicitaçaõ de r
     -   não tem peering entre nuvem diferentes
     -   não aceita load balance
 
-
 <br>
 
+**AZURE AD DOMAIN SERVICE**
 
+**AZURE ACTIVE DIRETORY (AZURE AD)**
+
+Podemos o usar o mesmo active directory para todas as aplicações em um  escopo global, ou seja independente de qual região ele esteja ele pode ser usado por qualquer aplicação de qualquer região.
+
+Exemplo: OFFICE 365
+
+Possui MFA (Multiplo fator de autenticação)
+
+É possivel colocar politicas dentro do AD como pode exempolo ver email apenas das 8h as 18h
+
+Não precisa se preocupar com infraestrutura, vc gerencia apenas as funcionalidades
+
+Software como serviço
+
+**AZURE ACTIVE DIRETORY DOMAIN SERVICE (AZURE AD-DS) IN PREMISSE**
+
+É o AD já usado em redes fechadas.
+
+Ele é uma VM que pode estar dentro da sua conta no Azure.
+
+Como este é uma maquina você seja responsavel por gerenciamento da maquina e das regras
+
+Software como serviço
 
 
