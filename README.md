@@ -30,3 +30,10 @@
 > **ARM** = Azure Resource Manager
 
 > **SSPR** = Self-Service Password Reset
+
+> **RBAC** = Role-Based Access Control Regras de controle de acesso criadas no AD
+
+
+
+AULAS 1, 2, 3
+https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies
