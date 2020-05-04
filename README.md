@@ -33,7 +33,9 @@
 
 > **RBAC** = Role-Based Access Control Regras de controle de acesso criadas no AD
 
+> **WAF** = Web Application firewall
 
+> **OWASP** = A sigla OWASP é a abreviação para “Open Web Application Security Project”. Trata-se de uma entidade sem fins lucrativos e com reconhecimento internacional, atuando com foco na colaboração para o fortalecimento da segurança de softwares em todo o mundo.
 
 AULAS 1, 2, 3
 https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies
