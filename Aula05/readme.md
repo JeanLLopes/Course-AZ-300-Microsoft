@@ -24,3 +24,14 @@ Usando Loader Balance o seu certificado fica no balanceador e não nas maquinas.
 
 
 ## VPN SITE TO SITE
+
+
+## AUTENTICAÇÃO
+
+Azure active directory
+-   ADDS
+-   Azure AD
+
+Serviço de verificação do Azure é pago e infoma para o cliente quais as maquinas estão conectadas na sua conta ouq eu ja conectaram
+
+Azure já possui conexão com os prinpais provedores de identidade, como Google, Facebook, .....
