@@ -33,6 +33,6 @@ Azure Functions são automaticamente monitoradas pelo Aplications Insigth
 
 **Link da Aula**
 
-[Curso AZ 300 Aula07 Parte1](https://www.youtube.com/watch?v=yC9nLUyhn10)
+[Curso AZ 300 Aula07 Parte1](https://www.youtube.com/watch?v=9EkO-HQsl1E)
 
-[Curso AZ 300 Aula07 Parte2](https://www.youtube.com/watch?v=Z8WCnWfKdnw)
+[Curso AZ 300 Aula07 Parte2](https://www.youtube.com/watch?v=zNgK6ak7CH4)
