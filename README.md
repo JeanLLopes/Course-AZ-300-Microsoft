@@ -39,6 +39,12 @@
 
 > **SNAT** = Azure Load Balancer Standard
 
+> **AKS** = Azure Kubernets Service
+
+> **ACR** = Azure Container Service
+
+> **ACI** = Azure container Intance
+
 
 AULAS 1, 2, 3
 https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies
