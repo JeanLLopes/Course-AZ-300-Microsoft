@@ -13,3 +13,8 @@ Infraestrutura as a service
 **PORTAL PREVIEW DO AZURE**
 
 http://preview.portal.azure.com/
+
+
+[Aulas Parte 01](https://www.youtube.com/watch?v=AWtqDGYkoWk)
+
+[Aulas Parte 02](https://www.youtube.com/watch?v=GwPpFuSPRBA)
